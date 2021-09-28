@@ -6,6 +6,17 @@ body{
     width:100% ;
     background-color:#4CAF50;
 }
+*{
+    scroll-behavior: smooth;
+}
+nav{
+    
+    position: fixed;
+    width: 100%;
+    padding:0 0;
+    /* font-size: 1.3rem; */
+
+}
 #home{
     border:1px rgb(61, 155, 53);
     width:100% ;
